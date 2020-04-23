@@ -10,5 +10,8 @@ package control;
  * @author Alejo
  */
 public class ControlGenero {
+    public void nn(){
     
+    
+    }
 }
